@@ -12,16 +12,16 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
-develop-eggs/
-dist/
+#build/
+#develop-eggs/
+#dist/
 downloads/
 eggs/
 .eggs/
 lib64/
 parts/
-sdist/
-var/
+#sdist/
+#var/
 wheels/
 *.egg-info/
 .installed.cfg
